@@ -1,6 +1,6 @@
 # Índice de imagens
 
-As imagens deste repositório servem para apresentar trabalho e contexto. A peça em `assets/social/` é a única imagem editorial; as imagens de `assets/cases/` são capturas de páginas ou telas dos projetos.
+As imagens deste repositório servem para apresentar trabalho e contexto. `assets/social/portfolio-share.png` é o cartão azul atual do portfólio, preparado para apresentação e compartilhamento; as imagens de `assets/cases/` são capturas de páginas ou telas dos projetos.
 
 | Projeto | Arquivo | O que mostra | Limite conhecido |
 |---|---|---|---|
@@ -14,5 +14,7 @@ As imagens deste repositório servem para apresentar trabalho e contexto. A peç
 | Mainstage | `mainstage-home.webp`, `mainstage-app.webp`, `mainstage-admin.webp` | Página e telas demonstrativas do projeto. | As telas de audiência e os dados do painel são demonstrativos. |
 | TecksArt | `tecksart-home.webp`, `tecksart-catalog.webp` | Site e catálogo do projeto. | A demo do portfólio não processa pedidos. |
 | Hulkinho | `hulkinho-page.png` | Página compartilhável do produto. | A demonstração prepara o pedido; não envia mensagem. |
+
+O cartão social é uma peça editorial na identidade azul atual. Ele não representa uma tela de produto. A captura da home pública da Modus Z é apresentada no case correspondente; os elementos gráficos decorativos do site não são evidências de interface.
 
 TradeFlow é descrito no case principal e demonstrado pelo portfólio. As telas da ferramenta interna não são publicadas neste repositório.
