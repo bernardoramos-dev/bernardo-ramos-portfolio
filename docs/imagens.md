@@ -4,7 +4,7 @@ As imagens deste repositório servem para apresentar trabalho e contexto. `asset
 
 | Projeto | Arquivo | O que mostra | Limite conhecido |
 |---|---|---|---|
-| Modus Z | `assets/cases/modus-home.png` | Página inicial pública da Modus Z. | Não mostra a área autenticada de operações. |
+| Modus Z | `assets/cases/modus-home.jpg` | Captura atual da home pública, com a proposta para operação multicanal. | A cena de produto e os canais são ilustrativos; o modelo segue em construção. |
 | Suma | `suma-home-light.jpg`, `suma-profile-light.jpg`, `suma-capture.jpg`, `suma-quick-capture.jpg` | Telas reais do protótipo iOS. | Não são gravação de uso nem aplicativo web. |
 | Casa TV | `casa-tv-home.png`, `casa-tv-library.png`, `casa-remote-iphone.png` | Interface para TV e controle no iPhone. | Compatibilidade física descrita no case continua em validação. |
 | Controllist | `controllist-home.png` | Página e identidade reais. | O aviso visível identifica um ambiente de validação e dados demonstrativos. |

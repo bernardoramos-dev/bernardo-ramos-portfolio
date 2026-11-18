@@ -17,9 +17,9 @@ Este repositório complementa meu [portfólio publicado](https://bernardoramos.c
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="cases/01-modus-z.md"><img src="assets/cases/modus-home.png" alt="Captura real da página inicial pública da Modus Z"></a>
+      <a href="cases/01-modus-z.md"><img src="assets/cases/modus-home.jpg" alt="Captura real da página inicial pública da Modus Z"></a>
       <h3>01 · Modus Z</h3>
-      <p>Meu TCC em Administração se tornou um empreendimento. Desenvolvo sites, sistemas e automações e organizo o trabalho de agentes com contexto, objetivos e verificações.</p>
+      <p>A partir do meu TCC em Administração, estou estruturando uma proposta para organizar a operação por trás das vendas em múltiplos canais, conectando catálogo, conteúdo, marketplaces e processos.</p>
       <p><a href="cases/01-modus-z.md">Ler o case →</a> · <a href="https://modusz.com.br">Visitar o site</a></p>
     </td>
     <td width="50%" valign="top">

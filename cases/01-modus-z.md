@@ -1,23 +1,23 @@
 # 01 · Modus Z
 
-**TCC · empreendimento · sistemas e automações**
+**TCC · operação de e-commerce · modelo em construção**
 
-![Captura real do site público da Modus Z](../assets/cases/modus-home.png)
+![Captura atual da home pública da Modus Z, apresentando uma proposta para operação de vendas em múltiplos canais](../assets/cases/modus-home.jpg)
 
 ## Contexto
 
-A Modus Z começou como meu Trabalho de Conclusão de Curso em Administração e virou um empreendimento. A proposta é transformar desafios de negócio em presença digital, produtos e operação.
+A Modus Z nasceu do meu TCC em Administração. Estou desenvolvendo uma proposta para organizar o trabalho por trás das vendas em loja própria, marketplaces e social commerce.
 
 ## O que construí
 
-Desenvolvo sites, sistemas e automações para clientes. Também organizo o trabalho com agentes de IA, definindo contexto, missão, ferramentas e verificações para que cada execução tenha escopo claro.
+A proposta conecta catálogo, conteúdo, canais e processos em uma visão mais clara da operação. O site público apresenta esse modelo enquanto ele ainda está em construção.
 
 ## Minha contribuição
 
-Estratégia, estrutura do produto, identidade visual, experiência e implementação. A captura mostra a página pública da Modus Z. A área de operações é outra experiência e pode ser conhecida diretamente no site.
+Definição da proposta a partir do TCC, direção visual e desenvolvimento da nova presença digital da Modus Z.
 
 ## Evidências e limites
 
-A imagem é da home pública; não representa telas internas nem um painel autenticado. A escultura verde usada no portfólio é arte editorial e não aparece no site da Modus Z. Não incluo dados de clientes nem métricas sem fonte confirmável.
+A Modus Z está em construção. A cena de produto e os canais mostrados na home são ilustrativos; não representam uma loja, cliente ou integração real. Este repositório não inclui ferramentas internas nem dados de clientes.
 
-**Site:** [modusz.com.br](https://modusz.com.br) · [Conhecer operações](https://modusz.com.br/operacoes) · [Portfólio](https://bernardoramos.com.br)
+**Site:** [modusz.com.br](https://modusz.com.br) · [Portfólio](https://bernardoramos.com.br)
